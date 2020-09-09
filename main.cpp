@@ -4,6 +4,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World!";
-    return 0;
+    std::cout << "Hello Wor!";
+    std::cout << "ciao mondo";
+    return 1;
 }
