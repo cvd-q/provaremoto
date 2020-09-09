@@ -5,7 +5,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello Wor!";
+    std::cout << "Hello World!";
     std::cout << "ciao mondo";
-    return 1;
+    return 0;
 }
