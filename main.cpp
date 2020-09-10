@@ -16,4 +16,9 @@ int main() {
     return 0;
 }
 
+<<<<<<< HEAD
 #ok master3
+=======
+
+# ok?
+>>>>>>> master4
