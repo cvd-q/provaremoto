@@ -15,3 +15,10 @@ int main() {
     std::cout << "ciao mondo";
     return 0;
 }
+
+<<<<<<< HEAD
+#ok master3
+=======
+
+# ok?
+>>>>>>> master4
